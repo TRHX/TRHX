@@ -8,7 +8,7 @@
 [![MAIL](https://img.shields.io/static/v1?label=MAIL&message=%20&color=green&logo=gmail&style=flat-square&logoColor=white)](mailto:admin@itrhx.com)
   
   
-👨‍🎓 **About:** `21 Years old Developer`  
-👨‍💻 **Languages:** `Python, Golang, JavaScript, HTML, CSS`  
-🚴‍♀️ **Hobbies:** `Cycling, Coding, Open-Source`  
-🏢 **organization:** `@Programming-With-Love`
+👨‍🎓 **About:** 21 Years old Developer  
+👨‍💻 **Languages:** Python, Golang, JavaScript, HTML, CSS  
+🚴‍♀️ **Hobbies:** Cycling, Coding, Open-Source  
+🏢 **Organizations:** @Programming-With-Love
