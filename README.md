@@ -9,8 +9,8 @@
   
   
 👨‍🎓 **About:** 22 Years old Developer from China.  
-👨‍💻 **Languages:** Python, Golang, JavaScript, HTML, CSS.  
+👨‍💻 **Languages:** Python, JavaScript, HTML, CSS.  
 🚴‍♀️ **Hobbies:** Cycling, Coding, Open-Source.  
-🏢 **Organizations:** [@Programming-With-Love](https://github.com/Programming-With-Love)
+🏢 **Research:** 网络爬虫，逆向安全，数据分析
 
 <!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
