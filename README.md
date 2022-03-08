@@ -11,6 +11,6 @@
 👨‍🎓 **About:** 22 Years old Developer from China.  
 👨‍💻 **Languages:** Python, JavaScript, HTML, CSS.  
 🚴‍♀️ **Hobbies:** Cycling, Coding, Open-Source.  
-🏢 **Research:** 网络爬虫，逆向安全，数据分析
+🏢 **Research:** 网络爬虫, 逆向安全, 数据分析.
 
 <!-- https://github.com/kautukkundan/Awesome-Profile-README-templates -->
