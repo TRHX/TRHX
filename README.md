@@ -17,9 +17,10 @@
 
   <hr>
   
-  <img align="left" width="60" src="https://cdn.jsdelivr.net/gh/TRHX/resources/itbob/images/other/back_to_top.png">
+  <!-- <img align="left" width="60" src="https://cdn.jsdelivr.net/gh/TRHX/resources/itbob/images/other/back_to_top.png"> -->
+  <img align="left" width="60" src="./images/bob.png">
   
-  ### I'm BOB. 热衷于数据挖掘、逆向和正向安全、浏览器指纹、风控对抗、开源情报和自媒体运营。
+  ### I'm BOB. 热衷于数据挖掘、逆向和正向安全、浏览器指纹、风控对抗、开源情报和自媒体运营
   ##### Passionate about data mining, reverse security, browser fingerprinting, risk control confrontation and open source intelligence.
 
 </div>
